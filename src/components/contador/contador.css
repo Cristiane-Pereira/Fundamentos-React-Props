@@ -1,0 +1,27 @@
+.btn-contador {
+    background-color: #990099;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 5px;
+}
+.btn-contador:hover{
+    background-color: #660066;
+}
+#passoInput {
+    width: 40px;
+}
+label {
+    font-size: 20px;
+}
+
+.btn-contador-2 {
+    background-color: #330033;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 5px;
+}
+.btn-contador-2:hover{
+    background-color:  #1a001a;
+}

@@ -1,0 +1,7 @@
+.btn-mega {
+    background-color: #999900;
+    margin-top: 1rem;
+}
+.btn-mega:hover {
+    background-color: #4d4d00;
+}

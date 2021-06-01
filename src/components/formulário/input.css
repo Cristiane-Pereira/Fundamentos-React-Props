@@ -1,0 +1,9 @@
+.input input {
+    font-size: 1.4rem;
+}
+
+#label {
+    font-size: 0.8rem;
+    color: red !important;
+    margin-top: 0.5rem;
+}
